@@ -24,3 +24,4 @@
 
 -e git+https://github.com/inveniosoftware/invenio-db.git#egg=invenio-db
 -e git+https://github.com/maxcountryman/flask-login.git#egg=flask-login
+-e git+git://github.com/mbr/simplekv.git#egg=simplekv
